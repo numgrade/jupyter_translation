@@ -1,6 +1,6 @@
 [project]
 name = "jupyter-translation"
-version = "0.1.1"
+version = "0.1.2"
 description = "Translate Jupyter Notebooks using Google Translate"
 readme = "README.md"
 authors = [
