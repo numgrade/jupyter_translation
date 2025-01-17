@@ -29,3 +29,7 @@ dev = [
     "pytest-mock>=3.14.0",
     "tox-uv>=1.19.0",
 ]
+
+[project.urls]
+source = "https://github.com/numgrade/jupyter_translation"
+tracker = "https://github.com/numgrade/jupyter_translation/issues"
