@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from jupyter-translation!")
+from .translate import translate_single_notebook, translate_multiple_notebooks
