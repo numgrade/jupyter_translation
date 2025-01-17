@@ -2,7 +2,7 @@
 
 **Translate your Jupyter notebooks from the command line or in a Python script.**
 
-![License MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/numgrade/stringstyler/blob/main/LICENSE)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/numgrade/stringstyler/blob/main/LICENSE)
 ![Python 3](https://img.shields.io/badge/Python%20version-3.9%2B-blue)
 
 --
