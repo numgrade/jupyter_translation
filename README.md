@@ -24,11 +24,19 @@ $ pip install jupyter-translation
 
 $ jupyter-translation input_notebook.ipynb
 
+or
+
+$ python -m jupyter_translation input_notebook.ipynb
+
 It translates input_notebook.ipynb from French to English. The result is a file named input_notebook_en.ipynb.
 
 Get help with this command :
 
 $ jupyter-translation --help
+
+or
+
+$ python -m jupyter_translation --help
 
 
 ### jupyter-translation in a Python script
@@ -37,7 +45,7 @@ $ jupyter-translation --help
 
 import asyncio
 
-from jupyter_translation.translate import translate_notebook
+from jupyter_translation import translate_single_notebook, translate_multiple_notebooks
 
 
 # Translate one notebook from Spanish to English.
